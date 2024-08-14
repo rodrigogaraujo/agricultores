@@ -1,0 +1,13 @@
+[
+  {
+    "cpfCnpj": "12345678901",
+    "nomeProdutor": "João da Silva",
+    "nomeFazenda": "Fazenda São João",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "areaTotal": 100,
+    "areaAgricultavel": 60,
+    "areaVegetacao": 30,
+    "culturas": ["Soja", "Milho"]
+  }
+]
